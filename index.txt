@@ -1,2 +1,3 @@
 <HTML>
 commit2
+commit -am
